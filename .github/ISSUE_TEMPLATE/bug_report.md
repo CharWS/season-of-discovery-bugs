@@ -1,6 +1,6 @@
 ---
-name: WOTLK Classic Bug report
-about: Create a bug report for wotlk classic
+name: SoD Classic Bug report
+about: Create a bug report for sod classic
 title: "[BUG]"
 labels: Pending Approval
 assignees: ''
